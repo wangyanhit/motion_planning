@@ -1,0 +1,125 @@
+﻿1. Map1
+type “python main.py difficulty algorithm” to run the program
+Algorithm can be “A*” or “ANA*”
+difficulty can be “hard.gif”, “b_map1.gif” or “b_map2.png”
+
+
+
+ 
+
+
+
+A*
+ANA*
+Path length
+115
+115
+Push queue count
+2155
+3690
+Pop queue count
+3690
+3589
+Time
+0.017s
+0.048s
+
+
+2. Map2
+
+
+
+
+A*
+ANA*
+Path length
+1505
+1791
+Push queue count
+150338
+125398
+Pop queue count
+149897
+123538
+Time
+3.121s
+10.437s
+
+3. Hard
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A*
+ANA*
+Path length
+8286
+8286
+Push queue count
+61667
+39582
+Pop queue count
+61644
+39561
+Time
+0.320s
+0.267s
+
